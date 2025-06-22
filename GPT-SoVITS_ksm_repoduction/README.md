@@ -8,16 +8,16 @@
 
 GPT-SoVITS_ksm_reproduction
 ├── GPT-SoVITS-main/      # 主程序
-│   ├── tools/           # 实验所需工具
+│   ├── tools/            # 实验所需工具
 │   └── ....../          			
-├── Local_Data/                  # 本地数据
-│   ├── GPT_models/          # GPT模型
-│   └── SoVITS_models/     # SoVITS模型
-├── workplace/               		# 工作区
+├── Local_Data/           # 本地数据
+│   ├── GPT_models/       # GPT模型
+│   └── SoVITS_models/    # SoVITS模型
+├── workplace/            # 工作区
 │   ├── ColorSplitter  		# 音色分类工具
-│   └── KiraKsm-main       # 音频爬取工具
-├── kasumi                 	  # 数据集音频文件
-└── README.md                # 项目说明
+│   └── KiraKsm-main      # 音频爬取工具
+├── kasumi                # 数据集音频文件
+└── README.md             # 项目说明
 
 ## 主要特性
 
