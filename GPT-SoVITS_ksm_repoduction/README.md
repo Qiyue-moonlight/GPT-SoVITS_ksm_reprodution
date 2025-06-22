@@ -8,10 +8,11 @@
 
 GPT-SoVITS_ksm_reproduction
 
--GPT-SoVITS-main/        # 主程序
+- GPT-SoVITS-main/        # 主程序
     --tools/            # 实验所需工具
+    
     --....../          			
--Local_Data/             # 本地数据
+- Local_Data/             # 本地数据
     --GPT_models/       # GPT模型
     --SoVITS_models/    # SoVITS模型
 -workplace/            # 工作区
