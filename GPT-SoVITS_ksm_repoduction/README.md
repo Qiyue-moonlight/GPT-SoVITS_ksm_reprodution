@@ -9,7 +9,6 @@
 GPT-SoVITS_ksm_reproduction
 
 - GPT-SoVITS-main/        # 主程序
-
       -- tools/            # 实验所需工具
       -- ....../          			
 - Local_Data/             # 本地数据
